@@ -21,10 +21,10 @@ import java.io.FileWriter;
 
     public class Task5 {
 		// Database credentials
-		final static String HOSTNAME = "habi0009-sql-server-1.database.windows.net";
+		final static String HOSTNAME = "h-sql-server-1.database.windows.net";
 		final static String DBNAME = "cs-dsa-4513-sql-db";
-		final static String USERNAME = "habi0009";
-		final static String PASSWORD = "Lahore12";
+		final static String USERNAME = "";
+		final static String PASSWORD = "";
 	 
 		// Database connection string
 		final static String URL = 
