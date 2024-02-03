@@ -24,7 +24,7 @@ import java.io.FileWriter;
 		final static String HOSTNAME = "habi0009-sql-server-1.database.windows.net";
 		final static String DBNAME = "cs-dsa-4513-sql-db";
 		final static String USERNAME = "habi0009";
-		final static String PASSWORD = "Lahore123";
+		final static String PASSWORD = "Lahore12";
 	 
 		// Database connection string
 		final static String URL = 
