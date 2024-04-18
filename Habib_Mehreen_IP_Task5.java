@@ -21,8 +21,8 @@ import java.io.FileWriter;
 
     public class Task5 {
 		// Database credentials
-		final static String HOSTNAME = "h-sql-server-1.database.windows.net";
-		final static String DBNAME = "cs-dsa-4513-sql-db";
+		final static String HOSTNAME = "";
+		final static String DBNAME = "";
 		final static String USERNAME = "";
 		final static String PASSWORD = "";
 	 
